@@ -28,7 +28,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "I don't get revenge by beating people once!"{" "}
+            "I don't get revenge by just defeating people once!"{" "}
           </p>
           <footer className="blockquote-footer">Magnus Carlsen</footer>
         </blockquote>
